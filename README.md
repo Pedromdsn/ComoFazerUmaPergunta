@@ -115,11 +115,11 @@ Encaminho aqui uma print da config e do erro da consola, além da print dos meus
 
 <h1>Fontes</h1>
 
-Utilizei alguns materiais dos seguintes sites:
-Writing the perfect question 
-Don't ask to ask, just ask 
-No Hello 
-How do I ask a good question? - Help Center 
-Fonte Alvo
+<p>Utilizei alguns materiais dos seguintes sites:</p></p>
+<p>Writing the perfect question</p>
+<p>Don't ask to ask, just ask </p>
+<p>No Hello </p>
+<p>How do I ask a good question? - Help Center </p></p>
+<p>Fonte Alvo</p>
 
 
