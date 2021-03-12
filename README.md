@@ -1,4 +1,3 @@
-# ComoFazerUmaPergunta
 <h1>Como fazer uma boa pergunta?</h1>
 
 
@@ -10,8 +9,7 @@ Pergunta é uma frase cujo objetivo é convidar um ouvinte ou leitor a dar uma e
 
 Agora que sabemos o que é uma pergunta vamos iniciar o artigo/explicação.
 
-#Não pergunte para perguntar
-
+<h1>Não pergunte para perguntar</h1>
 
 Em vez de chegar em algum lugar, e falar algo do tipo:
 
@@ -31,125 +29,97 @@ Um modelo bom, seria:
 
 “Bom dia, alguém consegue me dizer porque estou com este erro [Introduzir erro], [inserir informações relevantes], eu já fiz [Inserir as tentativas feitas para resolver o erro], isso aconteceu depois de [Introduzir acontecimento].”
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pessoas não gostam de ser proxy do Google!
-
-
+<h1>Pessoas não gostam de ser proxy do Google!</h1>
 
 Não faça uma pergunta sem pelo menos pesquisar / tentar resolver antes.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mande fotos do problema/ocorrido!
+<h1>Mande fotos do problema/ocorrido!</h1>
 
 
 Não relatam um problema sem inserir prints/muita descrição sobre o problema, seguir esse procedimento pode auxiliar quem está tentando ajudar, e uma hora ou outra elas irão pedir isso para você, então pense nos outros e poupe o tempo ao máximo dessas pessoas.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Boa gramática/escrita!
+<h1>Boa gramática/escrita!</h1>
 
 
 Você precisa enviar uma pergunta utilizando uma boa gramática ou escrita, lembre-se de sempre reler o que você digitou e tentar fazer manutenções para deixar o mais claro possível para o próximo.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Imagine-se a responder a pergunta!
+<h1>Imagine-se a responder a pergunta!</h1>
 
 Mesmo você não sabendo como resolver esse problema, tente imaginar outra pessoa lendo ou respondendo e veja se ela irá conseguir entender a dúvida com facilidade.
+
+<h1>Seja paciente!</h1>
+
+
+Ficar pedindo às pessoas que te ajudem não irá resolver em nada, muito menos ficar re-postando/re-enviando sua questão várias vezes, o máximo que podem ganhar é um mute/block.
+
+Ninguém é obrigado a responder ninguém, como vimos no tópico de cima, imagine-se no lugar do outro, você iria gostar de abrir o discord e ver um monte de mensagens inúteis?
+Eu não… apenas irei marcar como visto e nem abro
+
+
+<h1>Diga o que você já tentou!</h1>
+
+
+Inclua em seu texto, o que você já tentou para solucionar o problema, e se possível, inclua os resultados. 
+
+Isso irá acelerar a resolução de várias maneiras, e podemos identificar até erros não reportados/desconhecidos!
+
+
+<h1>Nunca faça questões planas!</h1>
+
+
+O que é uma questão plana? É uma pergunta que você apenas incluí uma frase ou poucas sem detalhes alguns, como:
+
+“Estou com um erro aqui.”
+“Qual o erro no meu servidor?”
+
+Você pode enriquecer muito mais essa pergunta, e ela irá se transformar em algo fácil e rápido para resolução.
+
+
+<h1>Exemplos:</h1>
+
+Errado:
+
+“Tentei acessar o website mas não deu”
+
+Adequado:
+
+Bom dia, hoje a tarde eu tentei acessar o website porém apareceu esse erro na tela: (erro aqui). Eu já tentei dar reload na página e utilizar outros navegadores como Firefox, Chrome, etc… Porém o erro ainda é o mesmo. Notei que se você adiciona um /us no final do link da página, ela carrega normalmente, então deduzo que seja um problema na página brasileira do website.
+
+Errado:
+
+“Estou com um problema aqui”
+
+Adequado:
+
+Bom dia, hoje a tarde eu comprei o plugin EZRanksPro tentei colocar um sistema de rankup, mas infelizmente está a dar erro, não upando de rank, já li a documentação do plugin (https://www.spigotmc.org/resources/ezrankspro.10731/) e não encontrei nenhum erro.
+Encaminho aqui uma print da config e do erro da consola, além da print dos meus plugins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>Fontes</h1>
+
+Utilizei alguns materiais dos seguintes sites:
+Writing the perfect question 
+Don't ask to ask, just ask 
+No Hello 
+How do I ask a good question? - Help Center 
+Fonte Alvo
+
+
