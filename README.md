@@ -10,15 +10,7 @@ Pergunta é uma frase cujo objetivo é convidar um ouvinte ou leitor a dar uma e
 
 Agora que sabemos o que é uma pergunta vamos iniciar o artigo/explicação.
 
-
-
-
-
-
-
-
-
-Não pergunte para perguntar
+#Não pergunte para perguntar
 
 
 Em vez de chegar em algum lugar, e falar algo do tipo:
