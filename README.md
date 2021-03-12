@@ -71,8 +71,8 @@ Isso irá acelerar a resolução de várias maneiras, e podemos identificar até
 
 O que é uma questão plana? É uma pergunta que você apenas incluí uma frase ou poucas sem detalhes alguns, como:
 
-“Estou com um erro aqui.”
-“Qual o erro no meu servidor?”
+<p>“Estou com um erro aqui.”</p>
+<p>“Qual o erro no meu servidor?”</p>
 
 Você pode enriquecer muito mais essa pergunta, e ela irá se transformar em algo fácil e rápido para resolução.
 
