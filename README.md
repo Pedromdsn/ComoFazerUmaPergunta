@@ -1,5 +1,5 @@
 # ComoFazerUmaPergunta
-<h1>Como fazer uma boa pergunta?<\h1>
+<h1>Como fazer uma boa pergunta?</h1>
 
 
 Fazer uma pergunta é um ato vulgar feito por toda a gente, mas muita gente especialmente as menos experientes a área e mais novos não sabem fazer uma pergunta de uma forma clara e fácil de ser respondido
