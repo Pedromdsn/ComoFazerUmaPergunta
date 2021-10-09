@@ -120,6 +120,4 @@ Encaminho aqui uma print da config e do erro da consola, além da print dos meus
 <p>Don't ask to ask, just ask </p>
 <p>No Hello </p>
 <p>How do I ask a good question? - Help Center </p></p>
-<p>Fonte Alvo</p>
-
 
