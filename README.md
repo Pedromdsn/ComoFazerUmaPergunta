@@ -15,8 +15,8 @@ Em vez de chegar em algum lugar, e falar algo do tipo:
 
 
 “Alguma pessoa já mexeu com Java?”
-“Estou com um erro num Plugin”
-“Porque está a acontecer … no meu jogo?”
+“Estou com um erro num projeto.”
+“Porque está a acontecer … no meu projeto?”
 
 O que você está REALMENTE perguntando é:
 
@@ -93,8 +93,8 @@ Errado:
 
 Adequado:
 
-Bom dia, hoje a tarde eu comprei o plugin EZRanksPro tentei colocar um sistema de rankup, mas infelizmente está a dar erro, não upando de rank, já li a documentação do plugin (https://www.spigotmc.org/resources/ezrankspro.10731/) e não encontrei nenhum erro.
-Encaminho aqui uma print da config e do erro da consola, além da print dos meus plugins.
+Bom dia, hoje a tarde eu comprei o com a dependencia XYZ tentei colocar um sistema de XYZ, mas infelizmente está a dar erro já li a documentação do npm e não encontrei nenhum erro.
+Encaminho aqui uma print da config e do erro da consola, além da print do meu codico.
 
 
 
