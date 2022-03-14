@@ -94,7 +94,7 @@ Errado:
 Adequado:
 
 Bom dia, hoje com a dependendencia XYZ tentei colocar um sistema de XYZ, mas infelizmente está a dar erro já li a documentação do npm e não encontrei nenhum erro.
-Encaminho aqui uma print da config e do erro da consola, além da print do meu codico.
+Encaminho aqui uma print da config e do erro do console, além da print do meu código.
 
 
 
