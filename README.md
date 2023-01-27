@@ -14,9 +14,9 @@ Agora que sabemos o que é uma pergunta vamos iniciar o artigo/explicação.
 Em vez de chegar em algum lugar, e falar algo do tipo:
 
 
-“Alguma pessoa já mexeu com Java?”
-“Estou com um erro num projeto.”
-“Porque está a acontecer … no meu projeto?”
+“Alguma pessoa já mexeu com Java?”  
+“Estou com um erro num projeto.”   
+“Porque está a acontecer … no meu projeto?”   
 
 O que você está REALMENTE perguntando é:
 
